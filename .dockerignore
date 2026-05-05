@@ -1,0 +1,5 @@
+output/
+*.o
+*.so
+*.dSYM/
+.DS_Store
