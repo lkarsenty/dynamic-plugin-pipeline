@@ -1,6 +1,6 @@
 # Dynamic Plugin Pipeline
 
-![CI](https://github.com/<your-github-username>/<your-repo-name>/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/lkarsenty/dynamic-plugin-pipeline/actions/workflows/ci.yml/badge.svg)
 
 A Linux systems-programming project that implements a configurable,
 multi-threaded text-processing pipeline. Each processing stage is loaded at
